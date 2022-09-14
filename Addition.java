@@ -9,5 +9,6 @@ public class Addition{
   System.out.println(c);
   System.out.println(c); 
   System.out.println("Addition Demo"); 
+  System.out.println(" New Line");  
   
   }

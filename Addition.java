@@ -8,4 +8,6 @@ public class Addition{
   c = b-a; 
   System.out.println(c);
   System.out.println(c); 
+  System.out.println("Addition Demo"); 
+  
   }
